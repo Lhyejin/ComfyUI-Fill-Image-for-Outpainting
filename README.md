@@ -8,5 +8,5 @@
 
 
 # example
-- Apply this [workflow](https://openart.ai/workflows/lizard_winding_85/flux-dev---outpainting/06p65B6oJ3im0Z4TDJfg)
+- Apply to this [workflow](https://openart.ai/workflows/lizard_winding_85/flux-dev---outpainting/06p65B6oJ3im0Z4TDJfg)
 ![image](https://github.com/user-attachments/assets/fd2cc16a-cf24-493a-8936-3ac7d42e4360)
