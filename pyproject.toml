@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-fill-image-for-outpainting"
+description = ""
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["opencv-python==4.8.1.78", "SciPy==1.11.4"]
+
+[project.urls]
+Repository = "https://github.com/Lhyejin/ComfyUI-Fill-Image-for-Outpainting"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "hyejinlee12"
+DisplayName = "ComfyUI-Fill-Image-for-Outpainting"
+Icon = ""
