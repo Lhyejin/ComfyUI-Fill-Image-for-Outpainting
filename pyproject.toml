@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-fill-image-for-outpainting"
-description = ""
+description = "This node is to fill image for outpainting(inpainting)\nFill image using cv2 methods(cv2_ns, cv2_telea and edge_pad)"
 version = "1.0.0"
 license = {file = "LICENSE"}
 dependencies = ["opencv-python==4.8.1.78", "SciPy==1.11.4"]
